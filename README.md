@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-17%2011%3A57%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-17%2012%3A07%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-17 11:57 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-17 12:07 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 6 min</td><td>14 ms</td><td>100.0%</td><td>acum 6 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 13 min</td><td>14 ms</td><td>100.0%</td><td>acum 12 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=whale.babysharkollah.co.uk&amp;port=8443&amp;secret=EERighJJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>03</td><td>acum 13 min</td><td>14 ms</td><td>100.0%</td><td>acum 12 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mc-ssh.t-proxyru.info.&amp;port=25565&amp;secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>04</td><td>acum 13 min</td><td>17 ms</td><td>100.0%</td><td>acum 12 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=best-sellerst.co.uk.&amp;port=443&amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>05</td><td>acum 13 min</td><td>14 ms</td><td>100.0%</td><td>acum 12 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=best-sellerst.co.uk.&amp;port=443&amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>06</td><td>acum 33 min</td><td>142 ms</td><td>100.0%</td><td>acum 33 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
+    <tr><td>01</td><td>acum 16 min</td><td>14 ms</td><td>100.0%</td><td>acum 16 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 23 min</td><td>14 ms</td><td>100.0%</td><td>acum 22 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=whale.babysharkollah.co.uk&amp;port=8443&amp;secret=EERighJJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>03</td><td>acum 23 min</td><td>14 ms</td><td>100.0%</td><td>acum 22 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mc-ssh.t-proxyru.info.&amp;port=25565&amp;secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>04</td><td>acum 23 min</td><td>17 ms</td><td>100.0%</td><td>acum 22 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=best-sellerst.co.uk.&amp;port=443&amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>05</td><td>acum 23 min</td><td>14 ms</td><td>100.0%</td><td>acum 22 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=best-sellerst.co.uk.&amp;port=443&amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>06</td><td>acum 43 min</td><td>142 ms</td><td>100.0%</td><td>acum 43 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.61.203:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>09</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -84,9 +84,9 @@ Pe canal primești:
     <tr><td>25</td><td>acum 4 h</td><td>6 ms</td><td>100.0%</td><td>acum 4 h</td><td>#vless</td><td><code>vless://68e4e01c-713d-4a43-8dca-e1806e4dbc62@151.101.66.219:443?security=tls&amp;sni=speedtest.net&amp;type=ws&amp;host=barkat1.ir&amp;path=%2FProxy_MTM-Proxy_MTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-Proxy_MTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-ProxyMTM-Proxy_MTM-Proxy_MTM%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6join%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET1</code></td></tr>
     <tr><td>26</td><td>acum 4 h</td><td>14 ms</td><td>100.0%</td><td>acum 4 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>27</td><td>acum 4 h</td><td>56 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@185.185.142.60:1080#Россия🇷🇺</code></td></tr>
-    <tr><td>28</td><td>acum 4 h</td><td>91 ms</td><td>100.0%</td><td>acum 4 h</td><td>#trojan</td><td><code>trojan://humanity@2.144.21.112:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AXX</code></td></tr>
-    <tr><td>29</td><td>acum 4 h</td><td>7 ms</td><td>100.0%</td><td>acum 4 h</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
-    <tr><td>30</td><td>acum 4 h</td><td>8 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=t1s1.rittbo.kdns.fr&amp;type=ws&amp;allowInsecure=1&amp;sni=t1s1.rittbo.kdns.fr#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
+    <tr><td>28</td><td>acum 5 h</td><td>91 ms</td><td>100.0%</td><td>acum 5 h</td><td>#trojan</td><td><code>trojan://humanity@2.144.21.112:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AXX</code></td></tr>
+    <tr><td>29</td><td>acum 5 h</td><td>7 ms</td><td>100.0%</td><td>acum 5 h</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
+    <tr><td>30</td><td>acum 5 h</td><td>8 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=t1s1.rittbo.kdns.fr&amp;type=ws&amp;allowInsecure=1&amp;sni=t1s1.rittbo.kdns.fr#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
   </tbody>
 </table>
 
