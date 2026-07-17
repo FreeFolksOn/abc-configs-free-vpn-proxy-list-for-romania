@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-17%2003%3A17%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-17%2003%3A27%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,26 +50,26 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-17 03:17 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-17 03:27 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 6 min</td><td>169 ms</td><td>100.0%</td><td>acum 6 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
+    <tr><td>01</td><td>acum 16 min</td><td>169 ms</td><td>100.0%</td><td>acum 16 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>03</td><td>acum 1 h</td><td>167 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
+    <tr><td>03</td><td>acum 2 h</td><td>167 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
     <tr><td>04</td><td>acum 3 h</td><td>192 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.138:10851#Гонконг🇭🇰</code></td></tr>
     <tr><td>05</td><td>acum 4 h</td><td>25 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.12.48.126:1080#Великобритания🇬🇧</code></td></tr>
     <tr><td>06</td><td>acum 5 h</td><td>16 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#Швейцария🇨🇭</code></td></tr>
-    <tr><td>07</td><td>acum 5 h</td><td>12 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCT2FqREI3amo0Q3NQWEFLZ1Jua0lR@5.253.59.156:32140#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>07</td><td>acum 6 h</td><td>12 ms</td><td>100.0%</td><td>acum 6 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCT2FqREI3amo0Q3NQWEFLZ1Jua0lR@5.253.59.156:32140#Нидерланды🇳🇱</code></td></tr>
     <tr><td>08</td><td>acum 6 h</td><td>12 ms</td><td>100.0%</td><td>acum 6 h</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyMJLEY3</code></td></tr>
     <tr><td>09</td><td>acum 6 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&amp;encryption=none&amp;pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=a20a8fdc#🆔ManVPN👈🇩🇪 IRAN%20154%20%28%40Outline_Vpn%29%20free</code></td></tr>
     <tr><td>10</td><td>acum 6 h</td><td>11 ms</td><td>100.0%</td><td>acum 6 h</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyMJLEY3</code></td></tr>
     <tr><td>11</td><td>acum 6 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&amp;encryption=none&amp;pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=a20a8fdc#🆔ManVPN👈🇩🇪 IRAN%20154%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>12</td><td>acum 6 h</td><td>7 ms</td><td>100.0%</td><td>acum 6 h</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>13</td><td>acum 6 h</td><td>7 ms</td><td>100.0%</td><td>acum 6 h</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>12</td><td>acum 7 h</td><td>7 ms</td><td>100.0%</td><td>acum 7 h</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>13</td><td>acum 7 h</td><td>7 ms</td><td>100.0%</td><td>acum 7 h</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
     <tr><td>14</td><td>acum 7 h</td><td>38 ms</td><td>100.0%</td><td>acum 7 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#Россия🇷🇺</code></td></tr>
     <tr><td>15</td><td>acum 7 h</td><td>15 ms</td><td>100.0%</td><td>acum 7 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>16</td><td>acum 7 h</td><td>15 ms</td><td>100.0%</td><td>acum 7 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
