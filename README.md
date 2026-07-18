@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-18%2022%3A17%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-18%2022%3A27%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-18 22:17 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-18 22:27 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 6 min</td><td>97 ms</td><td>100.0%</td><td>acum 5 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.235:20111#Канада🇨🇦</code></td></tr>
-    <tr><td>02</td><td>acum 53 min</td><td>111 ms</td><td>100.0%</td><td>acum 53 min</td><td>#ss</td><td><code>ss://5358651c-d958-4b7e-b597-a2419de0e700@s3.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20Tunnel</code></td></tr>
-    <tr><td>03</td><td>acum 53 min</td><td>156 ms</td><td>100.0%</td><td>acum 53 min</td><td>#ss</td><td><code>ss://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Tunnel</code></td></tr>
-    <tr><td>04</td><td>acum 53 min</td><td>129 ms</td><td>100.0%</td><td>acum 53 min</td><td>#vless</td><td><code>vless://5358651c-d958-4b7e-b597-a2419de0e700@s3.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20Tunnel</code></td></tr>
-    <tr><td>05</td><td>acum 53 min</td><td>110 ms</td><td>100.0%</td><td>acum 53 min</td><td>#vless</td><td><code>vless://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Tunnel</code></td></tr>
+    <tr><td>01</td><td>acum 16 min</td><td>97 ms</td><td>100.0%</td><td>acum 15 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.235:20111#Канада🇨🇦</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>111 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://5358651c-d958-4b7e-b597-a2419de0e700@s3.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20Tunnel</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>156 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Tunnel</code></td></tr>
+    <tr><td>04</td><td>acum 1 h</td><td>129 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://5358651c-d958-4b7e-b597-a2419de0e700@s3.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20Tunnel</code></td></tr>
+    <tr><td>05</td><td>acum 1 h</td><td>110 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Tunnel</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>350 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?note--Telegram--NetifyVPN--#Нидерланды🇳🇱</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNHBX92U</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>9 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNSQMEFX</code></td></tr>
@@ -84,7 +84,7 @@ Pe canal primești:
     <tr><td>25</td><td>acum 4 h</td><td>19 ms</td><td>100.0%</td><td>acum 4 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=135.181.69.129&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>26</td><td>acum 4 h</td><td>20 ms</td><td>100.0%</td><td>acum 4 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.97&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
     <tr><td>27</td><td>acum 4 h</td><td>17 ms</td><td>100.0%</td><td>acum 4 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=135.181.69.132&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0</code></td></tr>
-    <tr><td>28</td><td>acum 4 h</td><td>10 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Германия🇩🇪</code></td></tr>
+    <tr><td>28</td><td>acum 5 h</td><td>10 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Германия🇩🇪</code></td></tr>
     <tr><td>29</td><td>acum 5 h</td><td>24 ms</td><td>100.0%</td><td>acum 5 h</td><td>#vless</td><td><code>vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443?security=reality&amp;encryption=none&amp;pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=se.quattro-tech.ru&amp;sid=43dcff53849b81e6#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
     <tr><td>30</td><td>acum 5 h</td><td>23 ms</td><td>100.0%</td><td>acum 5 h</td><td>#vless</td><td><code>vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&amp;fp=firefox&amp;type=grpc&amp;serviceName=api.v2.ObjectService&amp;sni=media.oneokgames.com&amp;sid=dbdbeaf4aa6e1a5c#%40vpnbaz%20%F0%9F%9B%B8</code></td></tr>
   </tbody>
