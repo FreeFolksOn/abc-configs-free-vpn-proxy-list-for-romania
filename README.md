@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-20%2021%3A37%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-20%2021%3A47%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-20 21:37 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-20 21:47 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 12 min</td><td>50 ms</td><td>100.0%</td><td>acum 12 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:8016#Россия🇷🇺</code></td></tr>
-    <tr><td>02</td><td>acum 54 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#🆔ManVPN👈@Binner_iran</code></td></tr>
-    <tr><td>03</td><td>acum 54 min</td><td>7 ms</td><td>100.0%</td><td>acum 54 min</td><td>#ss</td><td><code>ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20130%20%28%40Outline_Vpn%29%20Free</code></td></tr>
-    <tr><td>04</td><td>acum 54 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#🆔ManVPN👈@Binner_iran</code></td></tr>
-    <tr><td>05</td><td>acum 54 min</td><td>7 ms</td><td>100.0%</td><td>acum 54 min</td><td>#vless</td><td><code>vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20130%20%28%40Outline_Vpn%29%20Free</code></td></tr>
-    <tr><td>06</td><td>acum 57 min</td><td>50 ms</td><td>100.0%</td><td>acum 57 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:8016#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>acum 22 min</td><td>50 ms</td><td>100.0%</td><td>acum 22 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:8016#Россия🇷🇺</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#🆔ManVPN👈@Binner_iran</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20130%20%28%40Outline_Vpn%29%20Free</code></td></tr>
+    <tr><td>04</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#🆔ManVPN👈@Binner_iran</code></td></tr>
+    <tr><td>05</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20130%20%28%40Outline_Vpn%29%20Free</code></td></tr>
+    <tr><td>06</td><td>acum 1 h</td><td>50 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:8016#Россия🇷🇺</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>09</td><td>acum 2 h</td><td>14 ms</td><td>100.0%</td><td>acum 2 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -86,7 +86,7 @@ Pe canal primești:
     <tr><td>27</td><td>acum 4 h</td><td>8 ms</td><td>100.0%</td><td>acum 4 h</td><td>#trojan</td><td><code>trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
     <tr><td>28</td><td>acum 4 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#ss</td><td><code>ss://8673cea6…</code></td></tr>
     <tr><td>29</td><td>acum 4 h</td><td>8 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
-    <tr><td>30</td><td>acum 4 h</td><td>7 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>30</td><td>acum 5 h</td><td>7 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
   </tbody>
 </table>
 
