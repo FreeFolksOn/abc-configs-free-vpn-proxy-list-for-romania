@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-20%2002%3A07%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-20%2002%3A17%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-20 02:07 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-20 02:17 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 59 min</td><td>26 ms</td><td>100.0%</td><td>acum 59 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>acum 1 h</td><td>26 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>acum 2 h</td><td>58 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@212.67.17.239:1080#Россия🇷🇺</code></td></tr>
-    <tr><td>03</td><td>acum 2 h</td><td>57 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@212.67.17.239:1080#Россия🇷🇺</code></td></tr>
-    <tr><td>04</td><td>acum 3 h</td><td>143 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
+    <tr><td>03</td><td>acum 3 h</td><td>57 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2d2M5bkdnUDhPNUtlV2J5cndpVW93@212.67.17.239:1080#Россия🇷🇺</code></td></tr>
+    <tr><td>04</td><td>acum 4 h</td><td>143 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
     <tr><td>05</td><td>acum 4 h</td><td>13 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?note--Telegram--NetifyVPN--#Нидерланды🇳🇱</code></td></tr>
     <tr><td>06</td><td>acum 5 h</td><td>10 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MTMVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyY4T23P</code></td></tr>
     <tr><td>07</td><td>acum 5 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
