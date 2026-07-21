@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-21%2008%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-21%2008%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-21 08:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-21 08:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 7 min</td><td>21 ms</td><td>100.0%</td><td>acum 7 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 33 min</td><td>165 ms</td><td>100.0%</td><td>acum 33 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206SWV2Tm9HTlFKVjZM@194.87.10.37:8388#Сингапур🇸🇬</code></td></tr>
+    <tr><td>01</td><td>acum 17 min</td><td>21 ms</td><td>100.0%</td><td>acum 17 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 43 min</td><td>165 ms</td><td>100.0%</td><td>acum 43 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206SWV2Tm9HTlFKVjZM@194.87.10.37:8388#Сингапур🇸🇬</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>19 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>292 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.200:50099#Тайвань🇹🇼</code></td></tr>
-    <tr><td>05</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>05</td><td>acum 2 h</td><td>14 ms</td><td>100.0%</td><td>acum 2 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>06</td><td>acum 2 h</td><td>14 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Нидерланды🇳🇱</code></td></tr>
     <tr><td>07</td><td>acum 2 h</td><td>90 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://humanity@2.144.21.112:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>08</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
@@ -77,16 +77,16 @@ Pe canal primești:
     <tr><td>18</td><td>acum 2 h</td><td>12 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%3E%3E%40v2rayNG_Matsuri%3A%3ANL</code></td></tr>
     <tr><td>19</td><td>acum 2 h</td><td>27 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw%3D@65.109.219.124:41393?security=none&amp;headerType=&amp;type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI</code></td></tr>
     <tr><td>20</td><td>acum 2 h</td><td>28 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://d6Lkjm16l2J6hXmaRtLzGDyOge6lK7eNRugGiC7GNFw%3D@65.109.219.124:41393?security=none&amp;headerType=&amp;type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI…</code></td></tr>
-    <tr><td>21</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>22</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>23</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.110:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>24</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#%3E%3E%40v2ray1_ng%3A%3ANL</code></td></tr>
-    <tr><td>25</td><td>acum 2 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16…</code></td></tr>
-    <tr><td>26</td><td>acum 2 h</td><td>302 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%3E%3E%40v2ray1_ng%3A%3ATW</code></td></tr>
-    <tr><td>27</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.110:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>28</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://humanity@104.17.121.9:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR</code></td></tr>
-    <tr><td>29</td><td>acum 2 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16…</code></td></tr>
-    <tr><td>30</td><td>acum 2 h</td><td>7 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#%3E%3E%40v2ray1_ng%3A%3ANL</code></td></tr>
+    <tr><td>21</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>22</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>23</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.110:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>24</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#%3E%3E%40v2ray1_ng%3A%3ANL</code></td></tr>
+    <tr><td>25</td><td>acum 3 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16…</code></td></tr>
+    <tr><td>26</td><td>acum 3 h</td><td>302 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#%3E%3E%40v2ray1_ng%3A%3ATW</code></td></tr>
+    <tr><td>27</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.110:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>28</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#trojan</td><td><code>trojan://humanity@104.17.121.9:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR</code></td></tr>
+    <tr><td>29</td><td>acum 3 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16…</code></td></tr>
+    <tr><td>30</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#%3E%3E%40v2ray1_ng%3A%3ANL</code></td></tr>
   </tbody>
 </table>
 
