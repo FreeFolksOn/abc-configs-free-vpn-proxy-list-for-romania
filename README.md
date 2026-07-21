@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-21%2023%3A17%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-21%2023%3A27%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,16 +50,16 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-21 23:17 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-21 23:27 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 13 min</td><td>90 ms</td><td>100.0%</td><td>acum 13 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>acum 57 min</td><td>35 ms</td><td>100.0%</td><td>acum 57 min</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>03</td><td>acum 57 min</td><td>37 ms</td><td>100.0%</td><td>acum 57 min</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>01</td><td>acum 23 min</td><td>90 ms</td><td>100.0%</td><td>acum 23 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>35 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>37 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>04</td><td>acum 2 h</td><td>20 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
     <tr><td>05</td><td>acum 2 h</td><td>21 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
     <tr><td>06</td><td>acum 2 h</td><td>27 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
