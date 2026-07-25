@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-25%2007%3A57%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-25%2008%3A07%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,16 +50,16 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-25 07:57 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-25 08:07 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 7 min</td><td>15 ms</td><td>100.0%</td><td>acum 7 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 56 min</td><td>156 ms</td><td>100.0%</td><td>acum 56 min</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
-    <tr><td>03</td><td>acum 56 min</td><td>161 ms</td><td>100.0%</td><td>acum 56 min</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>acum 17 min</td><td>15 ms</td><td>100.0%</td><td>acum 17 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>156 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>161 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>9 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#Telegram%3A%20@NormanV2ray</code></td></tr>
@@ -82,11 +82,11 @@ Pe canal primești:
     <tr><td>23</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=YzCiZz…</code></td></tr>
     <tr><td>24</td><td>acum 1 h</td><td>21 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%3E%3E%40v2rayNG_Matsuri%3A%3ANL</code></td></tr>
     <tr><td>25</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=germany-2.ariyuz.org&amp;type=ws&amp;allowInsecure=0&amp;sni=germany-2.ariyuz.org#%3E%3E%40v2rayNG_Matsuri%3A%3AXX</code></td></tr>
-    <tr><td>26</td><td>acum 1 h</td><td>212 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&amp;sni=electric-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK</code></td></tr>
-    <tr><td>27</td><td>acum 1 h</td><td>236 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&amp;sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR</code></td></tr>
-    <tr><td>28</td><td>acum 1 h</td><td>36 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&amp;sni=more-trout.rooster465.autos#%3E%3E%40v2nodes%3A%3APL</code></td></tr>
-    <tr><td>29</td><td>acum 1 h</td><td>270 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&amp;sni=selected-bison.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU</code></td></tr>
-    <tr><td>30</td><td>acum 1 h</td><td>268 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&amp;sni=big-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU</code></td></tr>
+    <tr><td>26</td><td>acum 2 h</td><td>212 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&amp;sni=electric-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK</code></td></tr>
+    <tr><td>27</td><td>acum 2 h</td><td>236 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&amp;sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR</code></td></tr>
+    <tr><td>28</td><td>acum 2 h</td><td>36 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&amp;sni=more-trout.rooster465.autos#%3E%3E%40v2nodes%3A%3APL</code></td></tr>
+    <tr><td>29</td><td>acum 2 h</td><td>270 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&amp;sni=selected-bison.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU</code></td></tr>
+    <tr><td>30</td><td>acum 2 h</td><td>268 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&amp;sni=big-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU</code></td></tr>
   </tbody>
 </table>
 
