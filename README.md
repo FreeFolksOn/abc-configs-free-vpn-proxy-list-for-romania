@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-26%2003%3A27%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-26%2003%3A37%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-26 03:27 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-26 03:37 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 5 min</td><td>190 ms</td><td>100.0%</td><td>acum 5 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.145:20166#Гонконг🇭🇰</code></td></tr>
+    <tr><td>01</td><td>acum 15 min</td><td>190 ms</td><td>100.0%</td><td>acum 15 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.145:20166#Гонконг🇭🇰</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>167 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Сингапур🇸🇬</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>24 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>04</td><td>acum 5 h</td><td>20 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594#Нидерланды🇳🇱</code></td></tr>
@@ -72,10 +72,10 @@ Pe canal primești:
     <tr><td>13</td><td>acum 7 h</td><td>15 ms</td><td>100.0%</td><td>acum 7 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>14</td><td>acum 7 h</td><td>14 ms</td><td>100.0%</td><td>acum 7 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>15</td><td>acum 7 h</td><td>19 ms</td><td>100.0%</td><td>acum 7 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>16</td><td>acum 7 h</td><td>135 ms</td><td>100.0%</td><td>acum 7 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
-    <tr><td>17</td><td>acum 8 h</td><td>14 ms</td><td>100.0%</td><td>acum 8 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>18</td><td>acum 8 h</td><td>15 ms</td><td>100.0%</td><td>acum 8 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>19</td><td>acum 8 h</td><td>15 ms</td><td>100.0%</td><td>acum 8 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>16</td><td>acum 8 h</td><td>135 ms</td><td>100.0%</td><td>acum 7 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
+    <tr><td>17</td><td>acum 9 h</td><td>14 ms</td><td>100.0%</td><td>acum 8 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>18</td><td>acum 9 h</td><td>15 ms</td><td>100.0%</td><td>acum 8 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>19</td><td>acum 9 h</td><td>15 ms</td><td>100.0%</td><td>acum 9 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>20</td><td>acum 9 h</td><td>200 ms</td><td>100.0%</td><td>acum 9 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#Таиланд🇹🇭</code></td></tr>
     <tr><td>21</td><td>acum 9 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://22ceed66-6218-4688-9234-9ba29027774b@sw.foot8all.ir:80?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;fp=firefox&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;sid=9e3f5e25c17d2615#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87…</code></td></tr>
     <tr><td>22</td><td>acum 9 h</td><td>17 ms</td><td>100.0%</td><td>acum 9 h</td><td>#ss</td><td><code>ss://22ceed66-6218-4688-9234-9ba29027774b@cdn1.portalcode.ir:2083?encryption=none&amp;security=tls&amp;type=xhttp&amp;headerType=none&amp;path=%2F&amp;host=faa7a5dd2bbe3d25.rainzone.ir&amp;mode=auto&amp;sni=faa7a5dd2bbe3d25.rainzone.ir&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9F%A1%20%E2%AC%86%EF%B8%8F%20%CA%9C%E1%B4%9B%E1%B4%9B%E1%B4%98%E1%B4%9C%E1%B4%98%C9%A2%CA%80%E1%B4%80%E1%B4%85%E1%B4%87%20</code></td></tr>
