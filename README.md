@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-26%2017%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-26%2017%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-26 17:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-26 17:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 11 min</td><td>19 ms</td><td>100.0%</td><td>acum 11 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 31 min</td><td>7 ms</td><td>100.0%</td><td>acum 30 min</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>acum 31 min</td><td>7 ms</td><td>100.0%</td><td>acum 30 min</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>04</td><td>acum 41 min</td><td>23 ms</td><td>100.0%</td><td>acum 41 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#Великобритания🇬🇧</code></td></tr>
-    <tr><td>05</td><td>acum 59 min</td><td>13 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>acum 21 min</td><td>19 ms</td><td>100.0%</td><td>acum 21 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 41 min</td><td>7 ms</td><td>100.0%</td><td>acum 40 min</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>acum 41 min</td><td>7 ms</td><td>100.0%</td><td>acum 40 min</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.201.235:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>04</td><td>acum 51 min</td><td>23 ms</td><td>100.0%</td><td>acum 51 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#Великобритания🇬🇧</code></td></tr>
+    <tr><td>05</td><td>acum 1 h</td><td>13 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNHBX92U</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>11 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPN1RKS8Y</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNHBX92U</code></td></tr>
@@ -86,7 +86,7 @@ Pe canal primești:
     <tr><td>27</td><td>acum 3 h</td><td>15 ms</td><td>100.0%</td><td>acum 3 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=151.80.208.16&amp;port=8443&amp;secret=KtbEYrkFO_oQDISeyVfTrjRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA</code></td></tr>
     <tr><td>28</td><td>acum 3 h</td><td>20 ms</td><td>100.0%</td><td>acum 3 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=51.75.91.200&amp;port=8443&amp;secret=G-f7dr0-4wCLfl7Y6t5XITRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA</code></td></tr>
     <tr><td>29</td><td>acum 3 h</td><td>21 ms</td><td>100.0%</td><td>acum 3 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=195.26.387-44qavi.ir.&amp;port=8443&amp;secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>30</td><td>acum 3 h</td><td>19 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://25209e75-6776-420e-9dd3-b7b6a77a3eb4@con.aliceit.ru:58843?flow=xtls-rprx-vision&amp;encryption=none&amp;security=reality&amp;sni=www.googletagmanager.com&amp;fp=chrome&amp;pbk=GiUJxQTMZi8_xtjnAg03V9vo85O1UYYJF8Yel8-PTAk&amp;sid=9ea316fcde370ad7&amp;allowinsecure=0&amp;type=tcp&amp;headerType=none#🇩🇪@NormanConfig</code></td></tr>
+    <tr><td>30</td><td>acum 4 h</td><td>19 ms</td><td>100.0%</td><td>acum 4 h</td><td>#vless</td><td><code>vless://25209e75-6776-420e-9dd3-b7b6a77a3eb4@con.aliceit.ru:58843?flow=xtls-rprx-vision&amp;encryption=none&amp;security=reality&amp;sni=www.googletagmanager.com&amp;fp=chrome&amp;pbk=GiUJxQTMZi8_xtjnAg03V9vo85O1UYYJF8Yel8-PTAk&amp;sid=9ea316fcde370ad7&amp;allowinsecure=0&amp;type=tcp&amp;headerType=none#🇩🇪@NormanConfig</code></td></tr>
   </tbody>
 </table>
 
