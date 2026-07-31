@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-31%2014%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-07-31%2014%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-07-31 14:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-07-31 14:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 14 min</td><td>15 ms</td><td>100.0%</td><td>acum 14 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 42 min</td><td>58 ms</td><td>100.0%</td><td>acum 42 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#Турция🇹🇷</code></td></tr>
+    <tr><td>01</td><td>acum 24 min</td><td>15 ms</td><td>100.0%</td><td>acum 24 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 52 min</td><td>58 ms</td><td>100.0%</td><td>acum 52 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#Турция🇹🇷</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>17 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>6 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?encryption=none&amp;security=reality&amp;sni=www.m.amazon.com&amp;fp=chrome&amp;pbk=wao7fuBMCR6po9PtLR1eRQjH7McA17SHoh95JudXaUI&amp;sid=0937ffd874d1&amp;spx=%2F9aeb9f49f7ea9c3&amp;type=tcp&amp;headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8…</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>34 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808?#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85</code></td></tr>
