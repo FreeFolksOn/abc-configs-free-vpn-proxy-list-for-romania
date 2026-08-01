@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-01%2011%3A57%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-01%2012%3A07%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-01 11:57 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-01 12:07 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 0 min</td><td>23 ms</td><td>100.0%</td><td>acum 47 sec</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 50 min</td><td>947 ms</td><td>100.0%</td><td>acum 50 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Сингапур🇸🇬</code></td></tr>
+    <tr><td>01</td><td>acum 10 min</td><td>23 ms</td><td>100.0%</td><td>acum 10 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>947 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Сингапур🇸🇬</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>17 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -84,7 +84,7 @@ Pe canal primești:
     <tr><td>25</td><td>acum 3 h</td><td>13 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&amp;sni=ftp.debian.org&amp;sid=688c#🆔ManVPN👈🇳🇱 Reality4|@ManVPN</code></td></tr>
     <tr><td>26</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?type=ws&amp;host=cs.laoyoutiao.link&amp;path=/Telegram@TELEGRAM-MTMVPN+/?ed&amp;security=none#🆔ManVPN👈🇺🇸 @ProxySnipeKST6LJ</code></td></tr>
     <tr><td>27</td><td>acum 3 h</td><td>12 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&amp;sni=ftp.debian.org&amp;sid=688c#🆔ManVPN👈🇳🇱 Reality4|@ManVPN</code></td></tr>
-    <tr><td>28</td><td>acum 3 h</td><td>235 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
+    <tr><td>28</td><td>acum 4 h</td><td>235 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
     <tr><td>29</td><td>acum 4 h</td><td>17 ms</td><td>100.0%</td><td>acum 4 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>30</td><td>acum 4 h</td><td>33 ms</td><td>100.0%</td><td>acum 4 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#Румыния🇷🇴</code></td></tr>
   </tbody>
