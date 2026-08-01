@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-01%2000%3A07%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-01%2000%3A17%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-01 00:07 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-01 00:17 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 50 min</td><td>44 ms</td><td>100.0%</td><td>acum 50 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UXpkTFZqaG9PV2hvTW1vNVVUQkVSelZoUVRsNE1uTkZNVVpMWW1ZMVIwSnpUVzlTYVZka2RWVlpXRlp5VW01VE5tRkVUVlpSU2xsQlJuTktkMUpEZEE9PQ@201.24.127.235:33883#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>acum 1 h</td><td>44 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UXpkTFZqaG9PV2hvTW1vNVVUQkVSelZoUVRsNE1uTkZNVVpMWW1ZMVIwSnpUVzlTYVZka2RWVlpXRlp5VW01VE5tRkVUVlpSU2xsQlJuTktkMUpEZEE9PQ@201.24.127.235:33883#США🇺🇸</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>27 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40NormanConfig</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>29 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40NormanConfig</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=a013377.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>18 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=i912713.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>06</td><td>acum 1 h</td><td>45 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UXpkTFZqaG9PV2hvTW1vNVVUQkVSelZoUVRsNE1uTkZNVVpMWW1ZMVIwSnpUVzlTYVZka2RWVlpXRlp5VW01VE5tRkVUVlpSU2xsQlJuTktkMUpEZEE9PQ@201.24.127.235:33883#США🇺🇸</code></td></tr>
+    <tr><td>06</td><td>acum 2 h</td><td>45 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UXpkTFZqaG9PV2hvTW1vNVVUQkVSelZoUVRsNE1uTkZNVVpMWW1ZMVIwSnpUVzlTYVZka2RWVlpXRlp5VW01VE5tRkVUVlpSU2xsQlJuTktkMUpEZEE9PQ@201.24.127.235:33883#США🇺🇸</code></td></tr>
     <tr><td>07</td><td>acum 3 h</td><td>23 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
     <tr><td>08</td><td>acum 3 h</td><td>16 ms</td><td>100.0%</td><td>acum 3 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
     <tr><td>09</td><td>acum 3 h</td><td>14 ms</td><td>100.0%</td><td>acum 3 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=for--you.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
