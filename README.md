@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-02%2019%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-02%2019%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,24 +50,24 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-02 19:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-02 19:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 22 min</td><td>189 ms</td><td>100.0%</td><td>acum 22 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>acum 49 min</td><td>16 ms</td><td>100.0%</td><td>acum 48 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=adn-stg.yourservice.janosup.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7464692e79656b74616e65742e796f6d</code></td></tr>
-    <tr><td>03</td><td>acum 49 min</td><td>15 ms</td><td>100.0%</td><td>acum 48 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=sv4.hajhossein.observer&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>04</td><td>acum 49 min</td><td>16 ms</td><td>100.0%</td><td>acum 48 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=webcam.shirbooni.co.uk&amp;port=144&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D</code></td></tr>
-    <tr><td>05</td><td>acum 49 min</td><td>15 ms</td><td>100.0%</td><td>acum 48 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mine.talebi.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>06</td><td>acum 49 min</td><td>16 ms</td><td>100.0%</td><td>acum 48 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=admetrics.uadapp.meshzen.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d</code></td></tr>
-    <tr><td>07</td><td>acum 49 min</td><td>21 ms</td><td>100.0%</td><td>acum 49 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=444&amp;secret=ee52579203ca28c1ea8b729af8cef2872b706c61792e676f6f676c652e636f6d</code></td></tr>
-    <tr><td>08</td><td>acum 49 min</td><td>18 ms</td><td>100.0%</td><td>acum 49 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.serverfool.ir.&amp;port=8443&amp;secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d</code></td></tr>
-    <tr><td>09</td><td>acum 49 min</td><td>17 ms</td><td>100.0%</td><td>acum 49 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=195.201.253.216&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>10</td><td>acum 49 min</td><td>15 ms</td><td>100.0%</td><td>acum 49 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>11</td><td>acum 49 min</td><td>13 ms</td><td>100.0%</td><td>acum 49 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Ghavi.nofex-co.info&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>01</td><td>acum 32 min</td><td>189 ms</td><td>100.0%</td><td>acum 32 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>acum 59 min</td><td>16 ms</td><td>100.0%</td><td>acum 58 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=adn-stg.yourservice.janosup.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7464692e79656b74616e65742e796f6d</code></td></tr>
+    <tr><td>03</td><td>acum 59 min</td><td>15 ms</td><td>100.0%</td><td>acum 58 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=sv4.hajhossein.observer&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>04</td><td>acum 59 min</td><td>16 ms</td><td>100.0%</td><td>acum 58 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=webcam.shirbooni.co.uk&amp;port=144&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D</code></td></tr>
+    <tr><td>05</td><td>acum 59 min</td><td>15 ms</td><td>100.0%</td><td>acum 58 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mine.talebi.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>06</td><td>acum 59 min</td><td>16 ms</td><td>100.0%</td><td>acum 58 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=admetrics.uadapp.meshzen.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d</code></td></tr>
+    <tr><td>07</td><td>acum 59 min</td><td>21 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=444&amp;secret=ee52579203ca28c1ea8b729af8cef2872b706c61792e676f6f676c652e636f6d</code></td></tr>
+    <tr><td>08</td><td>acum 59 min</td><td>18 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.serverfool.ir.&amp;port=8443&amp;secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d</code></td></tr>
+    <tr><td>09</td><td>acum 59 min</td><td>17 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=195.201.253.216&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>10</td><td>acum 59 min</td><td>15 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>11</td><td>acum 59 min</td><td>13 ms</td><td>100.0%</td><td>acum 59 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Ghavi.nofex-co.info&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
     <tr><td>12</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>13</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>14</td><td>acum 1 h</td><td>21 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
