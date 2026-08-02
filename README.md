@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-02%2022%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-02%2022%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-02 22:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-02 22:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 32 min</td><td>7 ms</td><td>100.0%</td><td>acum 31 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Германия🇩🇪</code></td></tr>
-    <tr><td>02</td><td>acum 51 min</td><td>13 ms</td><td>100.0%</td><td>acum 51 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>acum 42 min</td><td>7 ms</td><td>100.0%</td><td>acum 41 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Германия🇩🇪</code></td></tr>
+    <tr><td>02</td><td>acum 1 h</td><td>13 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>94 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://7202a610-5cf3-4501-a2af-0a4c31259ca9@tftvxdswa3wdtfkbbvvcbh.iramkemax.ir:2100?mode=stream-up&amp;path=%2Fai-articles-463994-satya-nadella-frontier-diffusion-control-featured&amp;security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.q1MB8IRU8ZqRN24j2MczJ9E2TOcwMLYT0wKO4VxiFQQ&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&amp;pbk=CHCADoZE2wEMJS0tIzO3slFjRpe_pMAbmglYAiRkhCo&amp;fp=chrome&amp;spx=%2…</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>18 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@20.223.136.145:443#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
