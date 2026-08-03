@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-03%2018%3A17%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-03%2018%3A27%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,21 +50,21 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-03 18:17 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-03 18:27 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 5 min</td><td>15 ms</td><td>100.0%</td><td>acum 5 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>acum 10 min</td><td>22 ms</td><td>66.7%</td><td>acum 10 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>03</td><td>acum 54 min</td><td>71 ms</td><td>100.0%</td><td>acum 54 min</td><td>#ss</td><td><code>ss://b23cda74-3cd9-4951-8a49-db1e404a607d@ultra-01.serveroff.net:443?encryption=none&amp;type=ws&amp;path=%2Fassets%2Fif0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2&amp;security=tls&amp;sni=ultra-01.serveroff.net&amp;fp=firefox#freekesha</code></td></tr>
-    <tr><td>04</td><td>acum 54 min</td><td>64 ms</td><td>100.0%</td><td>acum 54 min</td><td>#vless</td><td><code>vless://b23cda74-3cd9-4951-8a49-db1e404a607d@ultra-01.serveroff.net:443?encryption=none&amp;type=ws&amp;path=%2Fassets%2Fif0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2&amp;security=tls&amp;sni=ultra-01.serveroff.net&amp;fp=firefox#freekesha</code></td></tr>
-    <tr><td>05</td><td>acum 55 min</td><td>197 ms</td><td>100.0%</td><td>acum 55 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@140.238.191.246:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>06</td><td>acum 56 min</td><td>14 ms</td><td>100.0%</td><td>acum 56 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.cheshmabromeshki.ir.&amp;port=8443&amp;secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t</code></td></tr>
-    <tr><td>07</td><td>acum 56 min</td><td>15 ms</td><td>100.0%</td><td>acum 56 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=65.109.254.50&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>08</td><td>acum 56 min</td><td>17 ms</td><td>100.0%</td><td>acum 56 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mizaneshgh2.co.uk&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>01</td><td>acum 15 min</td><td>15 ms</td><td>100.0%</td><td>acum 15 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>acum 20 min</td><td>22 ms</td><td>66.7%</td><td>acum 20 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>71 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://b23cda74-3cd9-4951-8a49-db1e404a607d@ultra-01.serveroff.net:443?encryption=none&amp;type=ws&amp;path=%2Fassets%2Fif0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2&amp;security=tls&amp;sni=ultra-01.serveroff.net&amp;fp=firefox#freekesha</code></td></tr>
+    <tr><td>04</td><td>acum 1 h</td><td>64 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://b23cda74-3cd9-4951-8a49-db1e404a607d@ultra-01.serveroff.net:443?encryption=none&amp;type=ws&amp;path=%2Fassets%2Fif0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2&amp;security=tls&amp;sni=ultra-01.serveroff.net&amp;fp=firefox#freekesha</code></td></tr>
+    <tr><td>05</td><td>acum 1 h</td><td>197 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@140.238.191.246:59319#Бразилия🇧🇷</code></td></tr>
+    <tr><td>06</td><td>acum 1 h</td><td>14 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=www.cheshmabromeshki.ir.&amp;port=8443&amp;secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t</code></td></tr>
+    <tr><td>07</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=65.109.254.50&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>08</td><td>acum 1 h</td><td>17 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mizaneshgh2.co.uk&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>09</td><td>acum 1 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
     <tr><td>10</td><td>acum 1 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
     <tr><td>11</td><td>acum 1 h</td><td>8 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.179.159.40:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
