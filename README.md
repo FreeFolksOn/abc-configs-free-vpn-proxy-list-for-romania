@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-04%2012%3A27%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-04%2012%3A37%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-04 12:27 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-04 12:37 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 12 min</td><td>26 ms</td><td>100.0%</td><td>acum 12 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>02</td><td>acum 31 min</td><td>24 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>03</td><td>acum 54 min</td><td>20 ms</td><td>100.0%</td><td>acum 54 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>04</td><td>acum 58 min</td><td>103 ms</td><td>66.7%</td><td>acum 58 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>acum 22 min</td><td>26 ms</td><td>100.0%</td><td>acum 22 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>02</td><td>acum 41 min</td><td>24 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>03</td><td>acum 1 h</td><td>20 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>04</td><td>acum 1 h</td><td>103 ms</td><td>66.7%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>27 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&amp;sni=tjplay.lxdxo.kdns.fr&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tjplay.lxdxo.kdns.fr&amp;path=%2FLeviko_v2ray#%40Daily_Configs</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>26 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&amp;sni=tjplay.lxdxo.kdns.fr&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tjplay.lxdxo.kdns.fr&amp;path=%2FLeviko_v2ray#%40Daily_Configs</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>27 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&amp;sni=tjplay.lxdxo.kdns.fr&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tjplay.lxdxo.kdns.fr&amp;path=%2FLeviko_v2ray#%40Daily_Configs</code></td></tr>
