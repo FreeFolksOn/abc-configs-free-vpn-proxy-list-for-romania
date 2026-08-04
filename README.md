@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-04%2014%3A17%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-04%2014%3A27%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,23 +50,23 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-04 14:17 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-04 14:27 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 7 min</td><td>261 ms</td><td>100.0%</td><td>acum 7 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206blRwanlmUkdYZHlv@89.125.244.105:8388#Япония🇯🇵</code></td></tr>
-    <tr><td>02</td><td>acum 32 min</td><td>27 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mini.lavazemi4.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>03</td><td>acum 32 min</td><td>15 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=folox.jeyko-max.info.&amp;port=44300&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>04</td><td>acum 32 min</td><td>17 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>05</td><td>acum 32 min</td><td>18 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=445&amp;secret=eefa872345875cb3ee45fcd81050bb968b706c61792e676f6f676c652e636f6d</code></td></tr>
-    <tr><td>06</td><td>acum 32 min</td><td>23 ms</td><td>100.0%</td><td>acum 31 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=447&amp;secret=ee5a145d64d65f67104a86da963fa0e5c4706c61792e676f6f676c652e636f6d</code></td></tr>
-    <tr><td>07</td><td>acum 32 min</td><td>23 ms</td><td>100.0%</td><td>acum 32 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=446&amp;secret=ee3a6f6b20d72d9a08371da24e2804a79b706c61792e676f6f676c652e636f6d</code></td></tr>
-    <tr><td>08</td><td>acum 32 min</td><td>16 ms</td><td>100.0%</td><td>acum 32 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>09</td><td>acum 32 min</td><td>23 ms</td><td>100.0%</td><td>acum 32 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=95.217.244.239&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>10</td><td>acum 32 min</td><td>21 ms</td><td>100.0%</td><td>acum 32 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=65.21.83.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0</code></td></tr>
+    <tr><td>01</td><td>acum 17 min</td><td>261 ms</td><td>100.0%</td><td>acum 17 min</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206blRwanlmUkdYZHlv@89.125.244.105:8388#Япония🇯🇵</code></td></tr>
+    <tr><td>02</td><td>acum 42 min</td><td>27 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=mini.lavazemi4.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>03</td><td>acum 42 min</td><td>15 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=folox.jeyko-max.info.&amp;port=44300&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>04</td><td>acum 42 min</td><td>17 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=hadaf.golgoli2.co.uk&amp;port=2053&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>05</td><td>acum 42 min</td><td>18 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=445&amp;secret=eefa872345875cb3ee45fcd81050bb968b706c61792e676f6f676c652e636f6d</code></td></tr>
+    <tr><td>06</td><td>acum 42 min</td><td>23 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=447&amp;secret=ee5a145d64d65f67104a86da963fa0e5c4706c61792e676f6f676c652e636f6d</code></td></tr>
+    <tr><td>07</td><td>acum 42 min</td><td>23 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=178.104.197.220&amp;port=446&amp;secret=ee3a6f6b20d72d9a08371da24e2804a79b706c61792e676f6f676c652e636f6d</code></td></tr>
+    <tr><td>08</td><td>acum 42 min</td><td>16 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>09</td><td>acum 42 min</td><td>23 ms</td><td>100.0%</td><td>acum 41 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=95.217.244.239&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>10</td><td>acum 42 min</td><td>21 ms</td><td>100.0%</td><td>acum 42 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=65.21.83.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0</code></td></tr>
     <tr><td>11</td><td>acum 1 h</td><td>26 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?note--Telegram--NetifyVPN--#Нидерланды🇳🇱</code></td></tr>
     <tr><td>12</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>13</td><td>acum 1 h</td><td>15 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.170.185:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
@@ -80,13 +80,13 @@ Pe canal primești:
     <tr><td>21</td><td>acum 2 h</td><td>24 ms</td><td>100.0%</td><td>acum 2 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>22</td><td>acum 2 h</td><td>20 ms</td><td>100.0%</td><td>acum 2 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>23</td><td>acum 2 h</td><td>103 ms</td><td>66.7%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
-    <tr><td>24</td><td>acum 2 h</td><td>105 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&amp;flow=xtls…</code></td></tr>
-    <tr><td>25</td><td>acum 2 h</td><td>40 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?encryption=none&amp;security=reality&amp;sni=cdn.steamstatic.com&amp;fp=chrome&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
-    <tr><td>26</td><td>acum 2 h</td><td>36 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40Daily_Configs</code></td></tr>
-    <tr><td>27</td><td>acum 2 h</td><td>107 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&amp;flow=xtls…</code></td></tr>
-    <tr><td>28</td><td>acum 2 h</td><td>44 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?encryption=none&amp;security=reality&amp;sni=cdn.steamstatic.com&amp;fp=chrome&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
-    <tr><td>29</td><td>acum 2 h</td><td>35 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40Daily_Configs</code></td></tr>
-    <tr><td>30</td><td>acum 2 h</td><td>27 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&amp;sni=tjplay.lxdxo.kdns.fr&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tjplay.lxdxo.kdns.fr&amp;path=%2FLeviko_v2ray#%40Daily_Configs</code></td></tr>
+    <tr><td>24</td><td>acum 3 h</td><td>105 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&amp;flow=xtls…</code></td></tr>
+    <tr><td>25</td><td>acum 3 h</td><td>40 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?encryption=none&amp;security=reality&amp;sni=cdn.steamstatic.com&amp;fp=chrome&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
+    <tr><td>26</td><td>acum 3 h</td><td>36 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40Daily_Configs</code></td></tr>
+    <tr><td>27</td><td>acum 3 h</td><td>107 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&amp;flow=xtls…</code></td></tr>
+    <tr><td>28</td><td>acum 3 h</td><td>44 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?encryption=none&amp;security=reality&amp;sni=cdn.steamstatic.com&amp;fp=chrome&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
+    <tr><td>29</td><td>acum 3 h</td><td>35 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40Daily_Configs</code></td></tr>
+    <tr><td>30</td><td>acum 3 h</td><td>27 ms</td><td>100.0%</td><td>acum 3 h</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&amp;sni=tjplay.lxdxo.kdns.fr&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tjplay.lxdxo.kdns.fr&amp;path=%2FLeviko_v2ray#%40Daily_Configs</code></td></tr>
   </tbody>
 </table>
 
