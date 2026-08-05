@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2009%3A47%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2009%3A57%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,24 +50,24 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-05 09:47 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-05 09:57 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 26 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.80.152:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>acum 26 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.80.152:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>acum 33 min</td><td>7 ms</td><td>100.0%</td><td>acum 33 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Германия🇩🇪</code></td></tr>
+    <tr><td>01</td><td>acum 36 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.80.152:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>acum 36 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.80.152:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>acum 43 min</td><td>7 ms</td><td>100.0%</td><td>acum 43 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Германия🇩🇪</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=entezar.loseyourself.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=entezar.loseyourself.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyCJYE8F</code></td></tr>
     <tr><td>05</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNPXI41V</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#vless</td><td><code>vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=entezar.loseyourself.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=entezar.loseyourself.dpdns.org#🆔ManVPN👈🇺🇸 https%3A%2F%2Ft.me%2FV2ry_ProxyCJYE8F</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNPXI41V</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>208 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.33.67:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>09</td><td>acum 2 h</td><td>18 ms</td><td>100.0%</td><td>acum 1 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>09</td><td>acum 2 h</td><td>18 ms</td><td>100.0%</td><td>acum 2 h</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>10</td><td>acum 2 h</td><td>205 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.33.67:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>11</td><td>acum 2 h</td><td>123 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#США🇺🇸</code></td></tr>
+    <tr><td>11</td><td>acum 3 h</td><td>123 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#США🇺🇸</code></td></tr>
     <tr><td>12</td><td>acum 3 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=193.38.55.115&amp;port=443&amp;secret=ee22ebe47f2fc01540000000000000084b783657b82ddb69626434326e2e69</code></td></tr>
     <tr><td>13</td><td>acum 3 h</td><td>160 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;host=&amp;path=%2FNorman&amp;security=tls&amp;sni=&amp;type=ws#ws-Norman</code></td></tr>
     <tr><td>14</td><td>acum 3 h</td><td>166 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#xh-Norman</code></td></tr>
