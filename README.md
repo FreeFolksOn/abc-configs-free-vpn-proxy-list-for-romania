@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2006%3A57%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2007%3A07%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,20 +50,20 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-05 06:57 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-05 07:07 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 1 min</td><td>123 ms</td><td>100.0%</td><td>acum 1 min</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>acum 10 min</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=193.38.55.115&amp;port=443&amp;secret=ee22ebe47f2fc01540000000000000084b783657b82ddb69626434326e2e69</code></td></tr>
-    <tr><td>03</td><td>acum 18 min</td><td>160 ms</td><td>100.0%</td><td>acum 18 min</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;host=&amp;path=%2FNorman&amp;security=tls&amp;sni=&amp;type=ws#ws-Norman</code></td></tr>
-    <tr><td>04</td><td>acum 18 min</td><td>166 ms</td><td>100.0%</td><td>acum 18 min</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#xh-Norman</code></td></tr>
-    <tr><td>05</td><td>acum 18 min</td><td>164 ms</td><td>100.0%</td><td>acum 18 min</td><td>#vless</td><td><code>vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;host=&amp;path=%2FNorman&amp;security=tls&amp;sni=&amp;type=ws#ws-Norman</code></td></tr>
-    <tr><td>06</td><td>acum 18 min</td><td>164 ms</td><td>100.0%</td><td>acum 18 min</td><td>#vless</td><td><code>vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#xh-Norman</code></td></tr>
-    <tr><td>07</td><td>acum 47 min</td><td>29 ms</td><td>100.0%</td><td>acum 47 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>acum 11 min</td><td>123 ms</td><td>100.0%</td><td>acum 11 min</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>acum 20 min</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#tg_proxy</td><td><code>tg://proxy?server=193.38.55.115&amp;port=443&amp;secret=ee22ebe47f2fc01540000000000000084b783657b82ddb69626434326e2e69</code></td></tr>
+    <tr><td>03</td><td>acum 28 min</td><td>160 ms</td><td>100.0%</td><td>acum 28 min</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;host=&amp;path=%2FNorman&amp;security=tls&amp;sni=&amp;type=ws#ws-Norman</code></td></tr>
+    <tr><td>04</td><td>acum 28 min</td><td>166 ms</td><td>100.0%</td><td>acum 28 min</td><td>#ss</td><td><code>ss://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#xh-Norman</code></td></tr>
+    <tr><td>05</td><td>acum 28 min</td><td>164 ms</td><td>100.0%</td><td>acum 28 min</td><td>#vless</td><td><code>vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:8443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;host=&amp;path=%2FNorman&amp;security=tls&amp;sni=&amp;type=ws#ws-Norman</code></td></tr>
+    <tr><td>06</td><td>acum 28 min</td><td>164 ms</td><td>100.0%</td><td>acum 28 min</td><td>#vless</td><td><code>vless://b81ac2f6-f745-47d8-8da7-379a81ea2769@95.182.91.123:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#xh-Norman</code></td></tr>
+    <tr><td>07</td><td>acum 57 min</td><td>29 ms</td><td>100.0%</td><td>acum 57 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>09</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#trojan</td><td><code>trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>10</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
