@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2002%3A57%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-05%2003%3A07%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-05 02:57 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-05 03:07 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 56 min</td><td>198 ms</td><td>100.0%</td><td>acum 56 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#Таиланд🇹🇭</code></td></tr>
+    <tr><td>01</td><td>acum 1 h</td><td>198 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#Таиланд🇹🇭</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>253 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Япония🇯🇵</code></td></tr>
     <tr><td>03</td><td>acum 2 h</td><td>134 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>04</td><td>acum 3 h</td><td>7 ms</td><td>100.0%</td><td>acum 3 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.178.208:59924#Германия🇩🇪</code></td></tr>
@@ -86,7 +86,7 @@ Pe canal primești:
     <tr><td>27</td><td>acum 5 h</td><td>16 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://d91376ca-b23f-4d45-af3c-602595b0cad3@134.209.247.140:33000?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Germany%20D-76</code></td></tr>
     <tr><td>28</td><td>acum 5 h</td><td>19 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://d91376ca-b23f-4d45-af3c-602595b0cad3@68.183.43.38:33000?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#United%20Kingdom%20D-72</code></td></tr>
     <tr><td>29</td><td>acum 5 h</td><td>21 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://7d174199-da76-431a-91d0-38bc37fcea0d@165.22.119.252:35840?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#United%20Kingdom%20D-95</code></td></tr>
-    <tr><td>30</td><td>acum 5 h</td><td>107 ms</td><td>100.0%</td><td>acum 5 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
+    <tr><td>30</td><td>acum 6 h</td><td>107 ms</td><td>100.0%</td><td>acum 6 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
   </tbody>
 </table>
 
