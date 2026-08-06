@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-06%2018%3A07%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-06%2018%3A17%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-06 18:07 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-06 18:17 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 35 min</td><td>23 ms</td><td>100.0%</td><td>acum 35 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>acum 45 min</td><td>23 ms</td><td>100.0%</td><td>acum 45 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.238.157:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>03</td><td>acum 1 h</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.238.157:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>04</td><td>acum 1 h</td><td>10 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNSQMEFX</code></td></tr>
@@ -86,7 +86,7 @@ Pe canal primești:
     <tr><td>27</td><td>acum 2 h</td><td>41 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://93738a17-e7e8-43a3-a49c-8df903cb1cb5@marzban-node-production-ae7e.up.railway.app:443?path=%2Fvless&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=marzban-node-production-ae7e.up.rail…</code></td></tr>
     <tr><td>28</td><td>acum 2 h</td><td>193 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://75fafb2b-91da-43b6-9c10-6e0e6d82c16e@46.8.78.175:10691?security=reality&amp;encryption=none&amp;pbk=XOmolI8aGolTsoUKZ3jSvvV3lmmxGAxOA27mO339QCM&amp;headerType=none&amp;fp=chrome&amp;spx=%2F01d3b435ea4b0e0&amp;type=tcp&amp;sni=stg-eu-images.shop.samsung.com&amp;sid=bd011089#🇳🇱@NormanConfig</code></td></tr>
     <tr><td>29</td><td>acum 2 h</td><td>8 ms</td><td>100.0%</td><td>acum 2 h</td><td>#ss</td><td><code>ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#🇸🇬@NormanConfig</code></td></tr>
-    <tr><td>30</td><td>acum 2 h</td><td>22 ms</td><td>100.0%</td><td>acum 2 h</td><td>#vless</td><td><code>vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=98.lorqino.ir&amp;path=%2F250e#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85</code></td></tr>
+    <tr><td>30</td><td>acum 3 h</td><td>22 ms</td><td>100.0%</td><td>acum 3 h</td><td>#vless</td><td><code>vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.speedtest.net:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=98.lorqino.ir&amp;path=%2F250e#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85</code></td></tr>
   </tbody>
 </table>
 
