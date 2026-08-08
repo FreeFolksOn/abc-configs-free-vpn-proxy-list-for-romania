@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-08%2000%3A51%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-08%2001%3A01%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-08 00:51 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-08 01:01 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 36 min</td><td>52 ms</td><td>100.0%</td><td>acum 36 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY3p1SEQxMlI2eUNMeE5Fb2htX25R@37.77.105.11:1080#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>acum 46 min</td><td>52 ms</td><td>100.0%</td><td>acum 46 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY3p1SEQxMlI2eUNMeE5Fb2htX25R@37.77.105.11:1080#Россия🇷🇺</code></td></tr>
     <tr><td>02</td><td>acum 1 h</td><td>7 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Германия🇩🇪</code></td></tr>
     <tr><td>03</td><td>acum 2 h</td><td>11 ms</td><td>100.0%</td><td>acum 2 h</td><td>#trojan</td><td><code>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40kakajan1</code></td></tr>
     <tr><td>04</td><td>acum 2 h</td><td>N/A</td><td>N/A</td><td>N/A</td><td>#ss</td><td><code>ss://859a537b…</code></td></tr>
