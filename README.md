@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Canal Telegram @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Mesaj direct pe Telegram" src="https://img.shields.io/badge/Telegram-Scrie-ne-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-08%2020%3A21%20UTC&color=blue">
+  <img alt="Ultima actualizare" src="https://img.shields.io/static/v1?label=ultima%20actualizare&message=2026-08-08%2020%3A31%20UTC&color=blue">
   <img alt="Reîmprospătare automată la fiecare 10 minute" src="https://img.shields.io/static/v1?label=re%C3%AEmprosp%C4%83tare&message=la%20fiecare%2010%20min&color=brightgreen">
   <img alt="Licență: Unlicense" src="https://img.shields.io/static/v1?label=licen%C8%9B%C4%83&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@ Pe canal primești:
 
 ## Ultimele 30 configurații
 
-**Ultima actualizare:** 2026-08-08 20:21 UTC (reîmprospătat la fiecare 10 minute)
+**Ultima actualizare:** 2026-08-08 20:31 UTC (reîmprospătat la fiecare 10 minute)
 
 <table>
   <thead>
     <tr><th>#</th><th>Când</th><th>Latență</th><th>Rată de succes</th><th>Ultima activitate</th><th>Etichetă</th><th>Configurație</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>acum 3 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>acum 3 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>acum 11 min</td><td>14 ms</td><td>100.0%</td><td>acum 11 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@158.101.199.246:45819#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>04</td><td>acum 33 min</td><td>18 ms</td><td>100.0%</td><td>acum 33 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>05</td><td>acum 59 min</td><td>21 ms</td><td>100.0%</td><td>acum 59 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>acum 13 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>acum 13 min</td><td>N/A</td><td>0.0%</td><td>N/A</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>acum 21 min</td><td>14 ms</td><td>100.0%</td><td>acum 21 min</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@158.101.199.246:45819#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>04</td><td>acum 43 min</td><td>18 ms</td><td>100.0%</td><td>acum 43 min</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>05</td><td>acum 1 h</td><td>21 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>06</td><td>acum 1 h</td><td>73 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&amp;encryption=none&amp;pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=luminous-vortex.cdn.cachefleet.com#%40vpnbaz%20%E2%98%82%EF%B8%8F…</code></td></tr>
     <tr><td>07</td><td>acum 1 h</td><td>84 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&amp;fp=firefox&amp;type=grpc&amp;serviceName=api.v1.data&amp;sni=play.google.com&amp;sid=524efc1f88592266#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
     <tr><td>08</td><td>acum 1 h</td><td>26 ms</td><td>100.0%</td><td>acum 1 h</td><td>#ss</td><td><code>ss://baf1725b-4f31-407c-82e5-b225d5083eca@vpn.dailynode.net:11000?security=reality&amp;encryption=none&amp;pbk=BoibKO0-b9yDxo2iXtw_aduomZ96vAvPG9Ekp1_JP3U&amp;headerType=none&amp;fp=ios&amp;spx=%2F3d52d54c1489fb3&amp;type=tcp&amp;sni=play.google.com#%40vpnbaz%20%E2%AD%90</code></td></tr>
